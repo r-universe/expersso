@@ -1,0 +1,14 @@
+[
+  {
+    "package": "maddison",
+    "oncran": true
+  },
+  {
+    "package": "OECD",
+    "oncran": true
+  },
+  {
+    "package": "pdftables",
+    "oncran": true
+  }
+]

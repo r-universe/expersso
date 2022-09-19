@@ -1,9 +1,5 @@
 [
   {
-    "package": "maddison",
-    "oncran": true
-  },
-  {
     "package": "OECD",
     "oncran": true
   },

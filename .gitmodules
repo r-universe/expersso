@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OECD"]
+	path = OECD
+	url = https://github.com/expersso/oecd
 [submodule "ecb"]
 	path = ecb
 	url = https://github.com/cran/ecb
 [submodule "maddison"]
 	path = maddison
 	url = https://github.com/expersso/maddison
-[submodule "OECD"]
-	path = OECD
-	url = https://github.com/expersso/oecd
 [submodule "pdftables"]
 	path = pdftables
 	url = https://github.com/expersso/pdftables

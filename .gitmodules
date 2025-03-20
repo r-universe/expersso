@@ -7,7 +7,7 @@
 	url = https://github.com/expersso/oecd
 [submodule "ecb"]
 	path = ecb
-	url = https://github.com/cran/ecb
+	url = https://github.com/expersso/ecb
 [submodule "maddison"]
 	path = maddison
 	url = https://github.com/expersso/maddison
